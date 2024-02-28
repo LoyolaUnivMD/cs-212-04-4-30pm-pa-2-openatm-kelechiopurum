@@ -1,1 +1,31 @@
+1. make a String for name
+2. make a double for the Transactions
+3. make a String for account number
+4. make a double for balance
+5. make a double for the initial balance
 
+methods:
+
+1. General constructor
+  a. make a function for the Account
+  b. Parameters: String name, double transactions, String accountnum, Double balance, double initialbalance
+
+2. Default constructor
+  a. Make a function for isOwner
+  b. return a String, yes or no
+  c. parameters: accountnumber
+
+3. Balance Method
+  a. make a function for deposit
+  b. return balance and initial balance
+  c. Parameters: balance and initial balance
+
+4. Make a function to withdraw
+  a. return the balance
+  c. parameters: balance and initial balance
+
+5. Make a function to getStats
+  a. return the array of statistics
+  b. parameters: balance, initial balance
+
+6. Make a toString Method
